@@ -9,6 +9,14 @@ body{
     color: aliceblue;
 }
 .margin{
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 30px;;
+}
+.parceiros{
+    background-color: #b0c4de;
+}
+.bg-footer{
+    background-color: #BDB76B;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
